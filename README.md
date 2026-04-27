@@ -164,18 +164,6 @@ These projects demonstrate common **real-world fraud analytics challenges**:
 
 Despite these limitations, **strong preprocessing** and **model comparison** still produced meaningful business insights.
 
----
 
-## Future Improvements
-
-- Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
-- Ensemble learning (stacking, blending)
-- SHAP explainability for model interpretability
-- NLP on fraud descriptions (if available)
-- Fraud trend forecasting (time series analysis)
-- External economic indicators integration
-- Advanced class balancing techniques (SMOTE, ADASYN)
-- Cost-sensitive learning for financial risk models
-Made with care for the data science community
 
 </div>
